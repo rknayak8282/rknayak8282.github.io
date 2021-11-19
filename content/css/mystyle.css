@@ -1,0 +1,20 @@
+.button {
+font-size: 16px;
+font-weight: bold;
+border: none;
+color: white;
+text-align: center;
+text-decoration: none;
+cursor: pointer;
+}
+
+.course {
+font-size: 9px;
+font-family: "Verdana", "Courier New", monospace;
+text-transform: uppercase;
+letter-spacing: 3px;
+border: none;
+color: white;
+text-align: left;
+text-decoration: none;
+}
